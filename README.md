@@ -6,3 +6,6 @@ More steps in my journey through the world of Web Development
 
 # Began the first project in The Odin Project
 Created index.html, recipes folder and spaghetti.html
+
+# Added pages
+Added pages for chicken burger and mac and cheese. Included images.
